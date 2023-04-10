@@ -4,5 +4,3 @@ console.log("2")
 
 
 console.log("Alteração")
-
-isso tem que sair
